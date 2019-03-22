@@ -19,5 +19,14 @@ Las respuestas deben ir en folders separados con el nombre del ejercicio.
 
 ![vertical](verticalhorizontal.gif)
 
-2. **Bouncing Ball**. Elipse que rebota sin salirse del canvas. Es la misma que vimos en clase pero SIEMPRE debe verse completa.
-3. **Multiple Bouncing Balls**. Lo mismo que el anterior, pero con 3 elipses de distinto tamaño.
+2. **Bouncing Ball**. Elipse que rebota sin salirse del canvas. Es la misma que vimos en clase pero SIEMPRE debe verse completa. _Hint: guarda en una variable el tamaño de la elipse_.
+
+![bouncing](bouncing.gif)
+
+3. **Multiple Bouncing Balls**. Lo mismo que el anterior, pero con 2 elipses de distinto tamaño.
+
+![bouncing](multiplebouncing.gif)
+
+4. **Sides**. Una elipse recorre los lados del canvas a una velocidad. _Hint: usa una variable entera para guardar en cuál lado estás_.
+
+![sides](sides.gif)
