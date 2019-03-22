@@ -30,3 +30,11 @@ Las respuestas deben ir en folders separados con el nombre del ejercicio.
 4. **Sides**. Una elipse recorre los lados del canvas a una velocidad. _Hint: usa una variable entera para guardar en cuál lado estás_.
 
 ![sides](sides.gif)
+
+5. **Quadrants**. Se ilumina el cuadrante que donde está el mouse (el punto rojo). _Hint: se usa el operador `&&`_.
+
+![quadrants](quadrants.gif)
+
+6. **GrowButtons**. Dos botones, uno agranda a un cuadro y el otro a una elipse. (En la muestra el click se ve con un circulo rojo).
+
+![twobuttons](buttons.gif)
