@@ -15,7 +15,7 @@ En cada ejercicio debes de:
 Las respuestas deben ir en folders separados con el nombre del ejercicio.
 
 ### Ejercicios
-1. **Horizontal y Vertical**. Dos elipses, una recorre el eje horizontal, y cada vez que se recorre hacia abajo. Y la otra recorre el eje vertical, y cada vez que se recorre hacia la derecha.
+1. **Horizontal y Vertical**. Dos elipses, una recorre en horizontal, y cada vez que llega al ancho baja en la pantalla. Y la otra recorre el eje vertical, y cada vez que llega a la altura, se desplaza a la derecha.
 
 ![vertical](verticalhorizontal.gif)
 
@@ -41,7 +41,13 @@ Las respuestas deben ir en folders separados con el nombre del ejercicio.
 
 7. Escoge alguno de los siguientes:
    1. **Stairs**. Elipse que baja en escalera.
+   
+   ![stairs](stairs.gif)
+   
    2. **Spiral**. El mismo que el ejercicio `4.`, pero cuando completa una vuelta, se hace espiral.
+   
+   ![spiral](spiral.gif)
+      
    3. **ResetButtons**. El mismo que el ejercicio `6.`, pero agregando un tercer botón que resetea los tamaños.
    4. **Libre**. Haz un sketch libre que incluya mínimo 2 condicionales.
 
