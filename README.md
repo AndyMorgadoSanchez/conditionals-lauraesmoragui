@@ -40,10 +40,10 @@ Las respuestas deben ir en folders separados con el nombre del ejercicio.
 ![twobuttons](buttons.gif)
 
 7. Escoge alguno de los siguientes:
-  a. **Stair**. Elipse que baja en escalera.
-  b. **Spiral**. El mismo que el ejercicio `4.`, pero cuando completa una vuelta, se hace espiral.
-  c. **ResetButtons**. El mismo que el ejercicio `6.`, pero agregando un tercer botón que resetea los tamaños.
-  d. **Libre**. Haz un sketch libre que incluya mínimo 2 condicionales.
+   1. **Stairs**. Elipse que baja en escalera.
+   2. **Spiral**. El mismo que el ejercicio `4.`, pero cuando completa una vuelta, se hace espiral.
+   3. **ResetButtons**. El mismo que el ejercicio `6.`, pero agregando un tercer botón que resetea los tamaños.
+   4. **Libre**. Haz un sketch libre que incluya mínimo 2 condicionales.
 
 #### ¡Punto Extra!
 Obtén un punto extra personalizando tus sketches, explorando diferentes colores, formas (no solo pintes elipses), sin pintar el fondo en el `draw`, etc.
