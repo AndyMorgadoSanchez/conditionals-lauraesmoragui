@@ -38,3 +38,16 @@ Las respuestas deben ir en folders separados con el nombre del ejercicio.
 6. **GrowButtons**. Dos botones, uno agranda a un cuadro y el otro a una elipse. (En la muestra el click se ve con un circulo rojo).
 
 ![twobuttons](buttons.gif)
+
+7. Escoge alguno de los siguientes:
+  a. **Stair**. Elipse que baja en escalera.
+  b. **Spiral**. El mismo que el ejercicio `4.`, pero cuando completa una vuelta, se hace espiral.
+  c. **ResetButtons**. El mismo que el ejercicio `6.`, pero agregando un tercer botón que resetea los tamaños.
+  d. **Libre**. Haz un sketch libre que incluya mínimo 2 condicionales.
+
+#### ¡Punto Extra!
+Obtén un punto extra personalizando tus sketches, explorando diferentes colores, formas (no solo pintes elipses), sin pintar el fondo en el `draw`, etc.
+
+Si tienes dudas no dudes en preguntar.
+
+Happy Hacking! :D
